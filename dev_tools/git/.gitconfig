@@ -1,0 +1,22 @@
+[core]
+autocrlf = true
+
+[user]
+  email = your@email.com
+  name = Your Name
+
+[alias]
+  st = status -s
+  ci = commit
+  co = checkout
+  df = diff
+  dft = difftool
+  lg = log -p
+  lol = log --graph --decorate --oneline
+  lola = log --graph --decorate --oneline --all
+
+[push]
+    default = current
+
+[color]
+  ui = auto
