@@ -74,8 +74,8 @@ The following is the setup that you will need to perform to configure all necess
 ##Fork the project repositories for the week
 
 1. Login to your account at [github](https://github.com/login)
-2. Search for the username dwpdaxko: <br>![Search for dwpdaxko](http://github.com/dwpdaxko/setup/raw/master/images/github_search_for_develop_with_passion.png)
-3. Click on the dwpdaxko user <br>![dwpdaxko user](http://github.com/dwpdaxko/setup/raw/master/images/github_developwithpassion_user.png)
+2. Search for the username dwpdaxko (ignore the name used in the screenshot): <br>![Search for dwpdaxko](http://github.com/dwpdaxko/setup/raw/master/images/github_search_for_develop_with_passion.png)
+3. Click on the dwpdaxko user (ignore the name used in the screenshot)<br>![dwpdaxko user](http://github.com/dwpdaxko/setup/raw/master/images/github_developwithpassion_user.png)
 4. Click on the prep repository (ignore the name of the repository in the screenshot): ![repository](http://github.com/dwpdaxko/setup/raw/master/images/github_shawaugp.png)
 5. Click on the fork button to create your own copy of this repository <br>![fork](http://github.com/developwithpassion/setup/raw/master/images/github_fork.png)
 6. Repeat steps 2-5 for the app repository.
